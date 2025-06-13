@@ -35,6 +35,9 @@
 
 ## Output Images:
 
-![image alt](https://github.com/mushkaan0205/ATM-simulation-using-Tkinter-/blob/be4881bd5645b4d16f20c7be2a7128d67d225925/output/O1%20(1).png) ![image alt](https://github.com/mushkaan0205/ATM-simulation-using-Tkinter-/blob/cec0eff9e048ac050ae074032b4e3a334277447c/output/O1%20(2).png)
+![image alt](https://github.com/mushkaan0205/ATM-simulation-using-Tkinter-/blob/be4881bd5645b4d16f20c7be2a7128d67d225925/output/O1%20(1).png) 
+![image alt](https://github.com/mushkaan0205/ATM-simulation-using-Tkinter-/blob/cec0eff9e048ac050ae074032b4e3a334277447c/output/O1%20(2).png)
+![image alt](https://github.com/mushkaan0205/ATM-simulation-using-Tkinter-/blob/cec0eff9e048ac050ae074032b4e3a334277447c/output/O1%20(3).png )
+![image alt](https://github.com/mushkaan0205/ATM-simulation-using-Tkinter-/blob/cec0eff9e048ac050ae074032b4e3a334277447c/output/O1%20(4).png )
 
 
