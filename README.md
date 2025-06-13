@@ -1,10 +1,8 @@
 # ATM-simulation-using-Tkinter-
 
-##🔧 Technologies & Tools Used
+## 🔧 Technologies & Tools Used
     🐍 Python 3.x – Core programming language.
-
     🧱 Tkinter – GUI library used to build interactive user interfaces.
-
     🛠️ Ttk (Themed Tkinter Widgets) – For enhanced button and layout styling.
 
 🗣️ pyttsx3 – Offline Text-to-Speech (TTS) engine to provide voice feedback for user actions.
