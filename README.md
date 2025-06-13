@@ -32,3 +32,7 @@
         4.Threading & asynchronous speech processing
         5.Report generation and data visualization
         6.Enhanced problem-solving and user-centric design skills.
+
+## Output Images:
+
+![image alt](https://github.com/mushkaan0205/ATM-simulation-using-Tkinter-/blob/be4881bd5645b4d16f20c7be2a7128d67d225925/output/O1%20(1).png)
