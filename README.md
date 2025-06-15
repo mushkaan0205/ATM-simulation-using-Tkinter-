@@ -12,7 +12,7 @@
     ✔️ Git & GitHub – Version control and code hosting platform.
 
 ## 🧠 Project Overview
-        A simulated Smart ATM GUI System designed to mimic real ATM functionality including account access, secure PIN validation,                 transaction management, statement generation, and voice interaction.
+        A simulated Smart ATM GUI System designed to mimic real ATM functionality including account access, secure PIN validation,transaction management,statement generation,and voice interaction.
 
 ## 🛠️ Core Functionalities
         🔐 Multi-User Card System:Users can select from predefined cardholders like Rajesh Malhotra, Mushkaan Mohanta, and Suhani Singh.
